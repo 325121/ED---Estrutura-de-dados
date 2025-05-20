@@ -1,0 +1,11 @@
+ID      Marca       Preço   Quantidade Estocada
+1       Samsung     1999.99     50
+2       Apple       4999.99     30
+3       LG          1799.99     45
+4       Sony        2499.99     20
+5       Motorola    899.99      100
+6       Asus        1599.99     35
+7       Dell        2999.99     25
+8       Lenovo      1799.99     40
+9       Xiaomi      899.99      80
+10      Huawei      2599.99     15
